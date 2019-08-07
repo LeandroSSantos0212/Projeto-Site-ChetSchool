@@ -1,0 +1,22 @@
+
+@import url('../../CSS/form.css');
+@import url('../../CSS/chet.css');
+
+
+#header.page-contato {
+    background-image: url("../../Img/background-contato.jpg") ;
+}
+
+main {
+
+    background-color: rgb(243, 240, 231);
+
+}
+
+.btn {
+
+border-radius: 0;
+padding: 20px 60px; 
+font-size: 18px;
+
+}
